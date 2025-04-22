@@ -2,5 +2,5 @@
 
 ### Sobre mim
 
-   • Sou um estudante de Ciência da Computação, sou apaixonado em resolver problemas e criar soluções de software    
+   • Sou formado e, Ciência da Computação, sou apaixonado em resolver problemas e criar soluções de software    
    • Programo em C++, Java e Python
